@@ -1,0 +1,7 @@
+Vozinha;POR;38;Chaves;Cap Verd
+Pedro Miguel;DFC;35;Al-Gharafa;Cap Verd
+Tim Payne;LD;30;Wellington Phoenix;Nova Zelanda
+Cristiano Ronaldo;DC;39;Al-Nassr;Portugal
+Lionel Messi;DC;37;Inter Miami;Argentina
+Neymar Jr;EI;33;Santos;Brasil
+Luis Suárez;DC;37;Inter Miami;Uruguai

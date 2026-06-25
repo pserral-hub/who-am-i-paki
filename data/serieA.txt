@@ -1,0 +1,10 @@
+Lautaro Martínez;DC;28;Inter;Argentina
+Nicolò Barella;MC;29;Inter;Itàlia
+Hakan Çalhanoğlu;MC;32;Inter;Turquia
+Federico Chiesa;EI;28;Juventus;Itàlia
+Dusan Vlahović;DC;26;Juventus;Sèrbia
+Khvicha Kvaratskhelia;EI;24;Napoli;Geòrgia
+Stanislav Lobotka;MC;31;Napoli;Eslovàquia
+Teun Koopmeiners;MC;28;Atalanta;Països Baixos
+Gianluca Scamacca;DC;27;Atalanta;Itàlia
+Rafael Leão;EI;26;AC Milan;Portugal

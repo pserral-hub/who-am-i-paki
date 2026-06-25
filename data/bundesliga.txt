@@ -1,0 +1,11 @@
+Harry Kane;DC;32;Bayern;Anglaterra
+Jamal Musiala;MC;22;Bayern;Alemanya
+Joshua Kimmich;MC;31;Bayern;Alemanya
+Michael Olise;ED;24;Bayern;França
+Manuel Neuer;POR;40;Bayern;Alemanya
+Florian Wirtz;MC;22;Leverkusen;Alemanya
+Jeremie Frimpong;LD;25;Leverkusen;Països Baixos
+Jonathan Tah;DFC;29;Leverkusen;Alemanya
+Julian Brandt;MC;30;Dortmund;Alemanya
+Loïs Openda;DC;25;RB Leipzig;Bèlgica
+

@@ -1,0 +1,87 @@
+Marc-André ter Stegen;POR;34;Barcelona;Alemanya
+Ronald Araújo;DFC;27;Barcelona;Uruguai
+Jules Koundé;DFC;27;Barcelona;França
+Alejandro Balde;LI;22;Barcelona;Espanya
+Frenkie de Jong;MC;29;Barcelona;Països Baixos
+Pedri;MC;23;Barcelona;Espanya
+Gavi;MC;21;Barcelona;Espanya
+Ferran Torres;EI;26;Barcelona;Espanya
+Raphinha;ED;29;Barcelona;Brasil
+Robert Lewandowski;DC;37;Barcelona;Polònia
+
+Thibaut Courtois;POR;34;Real Madrid;Bèlgica
+Éder Militão;DFC;28;Real Madrid;Brasil
+Antonio Rüdiger;DFC;33;Real Madrid;Alemanya
+Ferland Mendy;LI;30;Real Madrid;França
+Aurélien Tchouaméni;MCD;26;Real Madrid;França
+Federico Valverde;MC;27;Real Madrid;Uruguai
+Eduardo Camavinga;MC;23;Real Madrid;França
+Jude Bellingham;MC;22;Real Madrid;Anglaterra
+Vinícius Júnior;EI;25;Real Madrid;Brasil
+Rodrygo Goes;ED;25;Real Madrid;Brasil
+
+Jan Oblak;POR;33;Atlético Madrid;Eslovènia
+José María Giménez;DFC;30;Atlético Madrid;Uruguai
+Reinildo Mandava;LI;32;Atlético Madrid;Moçambic
+Koke Resurrección;MC;32;Atlético Madrid;Espanya
+Rodrigo de Paul;MC;32;Atlético Madrid;Argentina
+Marcos Llorente;MC;31;Atlético Madrid;Espanya
+Antoine Griezmann;DC;35;Atlético Madrid;França
+Álvaro Morata;DC;33;Atlético Madrid;Espanya
+Samuel Lino;EI;25;Atlético Madrid;Brasil
+Nahuel Molina;LD;28;Atlético Madrid;Argentina
+
+Unai Simón;POR;29;Athletic Club;Espanya
+Iñigo Lekue;LD;32;Athletic Club;Espanya
+Yeray Álvarez;DFC;30;Athletic Club;Espanya
+Dani Vivian;DFC;26;Athletic Club;Espanya
+Óscar de Marcos;LD;37;Athletic Club;Espanya
+Iker Muniain;EI;33;Athletic Club;Espanya
+Oihan Sancet;MC;26;Athletic Club;Espanya
+Iñaki Williams;ED;32;Athletic Club;Ghana
+Nico Williams;EI;23;Athletic Club;Espanya
+Gorka Guruzeta;DC;29;Athletic Club;Espanya
+
+Álex Remiro;POR;30;Real Sociedad;Espanya
+Robin Le Normand;DFC;29;Real Sociedad;Espanya
+Aihen Muñoz;LI;28;Real Sociedad;Espanya
+Martín Zubimendi;MCD;27;Real Sociedad;Espanya
+Mikel Merino;MC;30;Real Sociedad;Espanya
+Takefusa Kubo;ED;24;Real Sociedad;Japó
+Brais Méndez;MC;29;Real Sociedad;Espanya
+Mikel Oyarzabal;EI;29;Real Sociedad;Espanya
+Ander Barrenetxea;EI;24;Real Sociedad;Espanya
+Sheraldo Becker;DC;31;Real Sociedad;Països Baixos
+
+Yassine Bono;POR;35;Sevilla;Marroc
+Jesús Navas;LD;40;Sevilla;Espanya
+Nemanja Gudelj;DFC;34;Sevilla;Sèrbia
+Marcos Acuña;LI;34;Sevilla;Argentina
+Joan Jordán;MC;31;Sevilla;Espanya
+Ivan Rakitić;MC;38;Sevilla;Croàcia
+Suso;ED;32;Sevilla;Espanya
+Lucas Ocampos;EI;31;Sevilla;Argentina
+Youssef En-Nesyri;DC;29;Sevilla;Marroc
+Erik Lamela;EI;34;Sevilla;Argentina
+
+Claudio Bravo;POR;43;Betis;Xile
+Germán Pezzella;DFC;35;Betis;Argentina
+Marc Bartra;DFC;35;Betis;Espanya
+Guido Rodríguez;MCD;32;Betis;Argentina
+William Carvalho;MC;34;Betis;Portugal
+Nabil Fekir;MC;32;Betis;França
+Ayoze Pérez;EI;32;Betis;Espanya
+Assane Diao;EI;19;Betis;Espanya
+Willian José;DC;34;Betis;Brasil
+Isco Alarcón;MC;34;Betis;Espanya
+
+Álvaro Valles;POR;27;Las Palmas;Espanya
+Sergi Cardona;LI;26;Las Palmas;Espanya
+Saúl Coco;DFC;25;Las Palmas;Guinea Equatorial
+Kirian Rodríguez;MC;29;Las Palmas;Espanya
+Jonathan Viera;MC;36;Las Palmas;Espanya
+Munir El Haddadi;EI;30;Las Palmas;Marroc
+Marc Cardona;DC;30;Las Palmas;Espanya
+Alberto Moleiro;EI;22;Las Palmas;Espanya
+Pejiño;EI;28;Las Palmas;Espanya
+Sandro Ramírez;DC;31;Las Palmas;Espanya

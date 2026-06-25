@@ -1,0 +1,10 @@
+Marquinhos;DFC;31;PSG;Brasil
+Achraf Hakimi;LD;27;PSG;Marroc
+Warren Zaïre-Emery;MC;18;PSG;França
+Ousmane Dembélé;ED;28;PSG;França
+Vitinha;MC;26;PSG;Portugal
+Bradley Barcola;EI;22;PSG;França
+Benjamin André;MC;35;Lille;França
+Edon Zhegrova;ED;27;Lille;Kosovo
+Aleksandr Golovin;MC;29;Monaco;Rússia
+Takumi Minamino;EI;30;Monaco;Japó

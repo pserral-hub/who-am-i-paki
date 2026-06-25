@@ -1,0 +1,170 @@
+Bukayo Saka;ED;24;Arsenal;Anglaterra
+Martin Ødegaard;MC;27;Arsenal;Noruega
+Declan Rice;MCD;27;Arsenal;Anglaterra
+William Saliba;DFC;25;Arsenal;França
+Gabriel Magalhães;DFC;28;Arsenal;Brasil
+Ben White;LD;28;Arsenal;Anglaterra
+David Raya;POR;30;Arsenal;Espanya
+Leandro Trossard;EI;31;Arsenal;Bèlgica
+Takehiro Tomiyasu;DFC;27;Arsenal;Japó
+Oleksandr Zinchenko;LI;29;Arsenal;Ucraïna
+
+Ollie Watkins;DC;30;Aston Villa;Anglaterra
+Emiliano Martínez;POR;33;Aston Villa;Argentina
+John McGinn;MC;31;Aston Villa;Escòcia
+Leon Bailey;ED;28;Aston Villa;Jamaica
+Pau Torres;DFC;29;Aston Villa;Espanya
+Matty Cash;LD;28;Aston Villa;Polònia
+Youri Tielemans;MC;29;Aston Villa;Bèlgica
+Ezri Konsa;DFC;28;Aston Villa;Anglaterra
+
+Dominic Solanke;DC;28;Bournemouth;Anglaterra
+Marcus Tavernier;EI;27;Bournemouth;Anglaterra
+Philip Billing;MC;30;Bournemouth;Dinamarca
+Justin Kluivert;EI;27;Bournemouth;Països Baixos
+Neto;POR;36;Bournemouth;Brasil
+Milos Kerkez;LI;22;Bournemouth;Hongria
+Luis Sinisterra;EI;27;Bournemouth;Colòmbia
+Tyler Adams;MC;27;Bournemouth;EUA
+Chris Mepham;DFC;28;Bournemouth;Gal·les
+Ryan Christie;MC;31;Bournemouth;Escòcia
+
+Bryan Mbeumo;ED;27;Brentford;Camerun
+Yoane Wissa;EI;29;Brentford;RD Congo
+Christian Nørgaard;MCD;32;Brentford;Dinamarca
+Mark Flekken;POR;33;Brentford;Països Baixos
+Nathan Collins;DFC;25;Brentford;Irlanda
+Aaron Hickey;LD;23;Brentford;Escòcia
+Frank Onyeka;MC;28;Brentford;Nigèria
+Ben Mee;DFC;36;Brentford;Anglaterra
+Mathias Jensen;MC;30;Brentford;Dinamarca
+Kevin Schade;ED;24;Brentford;Alemanya
+
+Kaoru Mitoma;EI;28;Brighton;Japó
+João Pedro;DC;24;Brighton;Brasil
+Lewis Dunk;DFC;34;Brighton;Anglaterra
+Simon Adingra;ED;24;Brighton;Costa d’Ivori
+Billy Gilmour;MC;25;Brighton;Escòcia
+Pervis Estupiñán;LI;28;Brighton;Equador
+Pascal Groß;MC;35;Brighton;Alemanya
+Jason Steele;POR;36;Brighton;Anglaterra
+Valentín Barco;LI;21;Brighton;Argentina
+
+Cole Palmer;ED;24;Chelsea;Anglaterra
+Enzo Fernández;MC;25;Chelsea;Argentina
+Moisés Caicedo;MCD;24;Chelsea;Equador
+Reece James;LD;26;Chelsea;Anglaterra
+Benoît Badiashile;DFC;25;Chelsea;França
+Axel Disasi;DFC;28;Chelsea;França
+Mykhailo Mudryk;EI;25;Chelsea;Ucraïna
+Nicolas Jackson;DC;25;Chelsea;Senegal
+Levi Colwill;DFC;23;Chelsea;Anglaterra
+
+Eberechi Eze;EI;28;Crystal Palace;Anglaterra
+Marc Guéhi;DFC;25;Crystal Palace;Anglaterra
+Joachim Andersen;DFC;30;Crystal Palace;Dinamarca
+Cheick Doucouré;MCD;26;Crystal Palace;Mali
+Odsonne Édouard;DC;28;Crystal Palace;França
+Dean Henderson;POR;29;Crystal Palace;Anglaterra
+Will Hughes;MC;31;Crystal Palace;Anglaterra
+Jordan Ayew;ED;34;Crystal Palace;Ghana
+Tyrick Mitchell;LI;26;Crystal Palace;Anglaterra
+
+Jordan Pickford;POR;32;Everton;Anglaterra
+James Tarkowski;DFC;33;Everton;Anglaterra
+Dwight McNeil;EI;26;Everton;Anglaterra
+Abdoulaye Doucouré;MC;33;Everton;Mali
+Dominic Calvert-Lewin;DC;29;Everton;Anglaterra
+Jarrad Branthwaite;DFC;24;Everton;Anglaterra
+Jack Harrison;EI;29;Everton;Anglaterra
+Idrissa Gueye;MCD;36;Everton;Senegal
+Vitaliy Mykolenko;LI;27;Everton;Ucraïna
+
+Andreas Pereira;MC;30;Fulham;Brasil
+Raúl Jiménez;DC;35;Fulham;Mèxic
+Willian;EI;37;Fulham;Brasil
+Bernd Leno;POR;34;Fulham;Alemanya
+Harrison Reed;MC;31;Fulham;Anglaterra
+Antonee Robinson;LI;28;Fulham;EUA
+Harry Wilson;ED;29;Fulham;Gal·les
+Tim Ream;DFC;38;Fulham;EUA
+
+Virgil van Dijk;DFC;35;Liverpool;Països Baixos
+Alisson Becker;POR;33;Liverpool;Brasil
+Trent Alexander-Arnold;LD;27;Liverpool;Anglaterra
+Luis Díaz;EI;29;Liverpool;Colòmbia
+Darwin Núñez;DC;26;Liverpool;Uruguai
+Alexis Mac Allister;MC;27;Liverpool;Argentina
+Dominik Szoboszlai;MC;25;Liverpool;Hongria
+Cody Gakpo;EI;27;Liverpool;Països Baixos
+Ibrahima Konaté;DFC;26;Liverpool;França
+
+Erling Haaland;DC;25;Manchester City;Noruega
+Kevin De Bruyne;MC;35;Manchester City;Bèlgica
+Phil Foden;ED;26;Manchester City;Anglaterra
+Rodri;MCD;30;Manchester City;Espanya
+Bernardo Silva;ED;31;Manchester City;Portugal
+Rúben Dias;DFC;29;Manchester City;Portugal
+Ederson;POR;32;Manchester City;Brasil
+John Stones;DFC;31;Manchester City;Anglaterra
+Julián Álvarez;DC;26;Manchester City;Argentina
+
+Bruno Fernandes;MC;31;Manchester United;Portugal
+Marcus Rashford;EI;28;Manchester United;Anglaterra
+Rasmus Højlund;DC;23;Manchester United;Dinamarca
+Lisandro Martínez;DFC;28;Manchester United;Argentina
+André Onana;POR;30;Manchester United;Camerun
+Kobbie Mainoo;MC;21;Manchester United;Anglaterra
+Luke Shaw;LI;30;Manchester United;Anglaterra
+Diogo Dalot;LD;27;Manchester United;Portugal
+
+Alexander Isak;DC;26;Newcastle;Suècia
+Bruno Guimarães;MC;28;Newcastle;Brasil
+Sven Botman;DFC;26;Newcastle;Països Baixos
+Kieran Trippier;LD;35;Newcastle;Anglaterra
+Nick Pope;POR;34;Newcastle;Anglaterra
+Anthony Gordon;EI;25;Newcastle;Anglaterra
+Joelinton;MC;29;Newcastle;Brasil
+Fabian Schär;DFC;34;Newcastle;Suïssa
+Harvey Barnes;EI;28;Newcastle;Anglaterra
+
+Morgan Gibbs-White;MC;26;Nottingham Forest;Anglaterra
+Taiwo Awoniyi;DC;28;Nottingham Forest;Nigèria
+Anthony Elanga;EI;24;Nottingham Forest;Suècia
+Murillo;DFC;22;Nottingham Forest;Brasil
+Neco Williams;LD;25;Nottingham Forest;Gal·les
+Danilo;MC;25;Nottingham Forest;Brasil
+Callum Hudson-Odoi;EI;25;Nottingham Forest;Anglaterra
+
+James Ward-Prowse;MC;31;Southampton;Anglaterra
+Kyle Walker-Peters;LD;29;Southampton;Anglaterra
+Adam Armstrong;DC;29;Southampton;Anglaterra
+Che Adams;DC;30;Southampton;Escòcia
+Gavin Bazunu;POR;24;Southampton;Irlanda
+Ryan Fraser;EI;32;Southampton;Escòcia
+
+Heung-min Son;EI;33;Tottenham;Corea del Sud
+James Maddison;MC;29;Tottenham;Anglaterra
+Cristian Romero;DFC;28;Tottenham;Argentina
+Dejan Kulusevski;ED;26;Tottenham;Suècia
+Pedro Porro;LD;26;Tottenham;Espanya
+Micky van de Ven;DFC;25;Tottenham;Països Baixos
+Richarlison;DC;29;Tottenham;Brasil
+
+Jarrod Bowen;ED;29;West Ham;Anglaterra
+Lucas Paquetá;MC;28;West Ham;Brasil
+Mohammed Kudus;ED;25;West Ham;Ghana
+Edson Álvarez;MCD;28;West Ham;Mèxic
+Alphonse Areola;POR;33;West Ham;França
+Kurt Zouma;DFC;31;West Ham;França
+
+Matheus Cunha;DC;27;Wolves;Brasil
+Pedro Neto;EI;26;Wolves;Portugal
+Hwang Hee-chan;DC;30;Wolves;Corea del Sud
+João Gomes;MC;25;Wolves;Brasil
+Craig Dawson;DFC;36;Wolves;Anglaterra
+José Sá;POR;33;Wolves;Portugal
+Rayan Aït-Nouri;LI;25;Wolves;Algèria
+Mario Lemina;MC;32;Wolves;Gabon
+Pablo Sarabia;ED;34;Wolves;Espanya
+Matt Doherty;LD;34;Wolves;Irlanda
